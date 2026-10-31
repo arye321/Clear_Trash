@@ -1,0 +1,9 @@
+{
+  "name": "Clear_Trash",
+  "version": "1.0.0",
+  "title": "Clear Trash to Chest",
+  "author": "Clear Trash",
+  "factorio_version": "1.1",
+  "dependencies": ["base >= 1.1.0"],
+  "description": "Adds a Move trash to chest button below an open chest. Transfers items from your character logistic trash slots, leaving anything that does not fit."
+}
